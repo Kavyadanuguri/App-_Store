@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.list-con {
+  list-style-type: none;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+p {
+  font-size: 23px;
+  font-weight: bold;
+  font-family: 'roboto';
+}
+.tab-button {
+  background-color: transparent;
+  border-width: 0px;
+}
+.active-tab {
+  color: #2563eb;
+  background-color: blue;
+}
